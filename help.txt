@@ -1,0 +1,54 @@
+			HELP - Graphics Assignments-1 
+####################################################
+
+Name : Abhijith Nair
+Roll No. : 201501169
+Group : 4
+
+####################################################
+
+
+DESCRIPTION
+-------------
+
+All required features have been included in the game, namely, buckets can collect falling bricks, bricks can be shot by a bullet from the cannon, cannon and buckets can be moved by both keyboard and mouse controls, bullet can get reflected by the mirrors as well as falling deflecting objects, can be zoomed in or out, can be panned left or right, mouse decides direction of shot, score is calculated throughout the game according to score calculation rules, game gets over on occurrence of some conditions.
+
+ADDITIONAL FEATURES
+--------------------
+
+1) Falling deflectors that can deflect bullets.
+2) Sound when a bullet is shot(using threads).
+3) Score calculation and printing on terminal.
+4) Additional score calculation rules.
+5) Random colouring of bullets.
+
+KEYBOARD CONTROLS
+-----------------
+s -> Move canon up.
+f -> Move canon down.
+a -> Tilt canon upwards.
+d -> Tilt canon downwards.
+
+n -> Increase falling speed of bricks.
+m -> Decrease falling speed of bricks.
+
+Ctrl + Right -> Move red bucket right.
+Ctrl + Left -> Move red bucket left.
+Alt + Right -> Move green bucket right.
+Alt + Left -> Move green bucket left.
+
+Left -> Pan leftwards.
+Right -> Pan rightwards.
+Up -> Zoom in.
+Down -> Zoom Out.
+
+Space -> Shoot.
+
+
+MOUSE CONTROLS
+-----------------
+We can select any movable object by clicking on or near it. 
+Then you can move baskets left or right and canon up and down by dragging.
+The position where you click is used to decide the direction of the shot. 
+Mouse scroll wheel to zoom in and out.
+Right mouse button to pan left/right when we click and drag.
